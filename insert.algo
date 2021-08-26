@@ -1,0 +1,6 @@
+ALGORITHM problem1-solution2
+VAR
+    set1:HASH_TABLE<integer,Value_type>
+BEGIN
+    set_instructions
+END
